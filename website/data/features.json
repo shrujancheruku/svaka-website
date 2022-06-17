@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Consulting",
+    "description": "Schedule your consultation today",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Project Management",
+    "description": "Let us help you manage your project",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Compliance",
+    "description": "We stay up to date on the latest changes to regulations",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }
+]
